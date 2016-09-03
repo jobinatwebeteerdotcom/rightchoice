@@ -10,7 +10,7 @@ require_once('config.php') ;
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link rel="shortcut icon" type="image/png" href="<?php echo ROOT_DIR ?>images/fav.png"/>
-<script src="js/jquery.js"></script>
+<script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 </head>
 <body>
