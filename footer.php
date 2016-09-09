@@ -18,10 +18,10 @@ require_once('config.php') ;
 <div class="container-fluid sec9">
 <div class="container sec9-head">
 <div class="row">
-<div class="col-md-8">
+<div class="col-md-6">
 <h6>© 2016 choiceme - All Rights Reserved</h6>
 </div>
-<div class="col-md-4">
+<div class="col-md-6">
 <img src="images/image5.png" />
 <img src="images/image6.png" />
 <img src="images/image7..png" />

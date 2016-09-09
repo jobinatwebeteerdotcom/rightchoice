@@ -22,22 +22,34 @@ require_once('config.php') ;
 <img src="images/logo..png" />
 </div>
 <div class="col-md-6">
-<nav class="navbar navbar-default">
-<ul class="nav navbar-nav nav_home">
-               
-       <li class="active"><a href="#">Home</a></li>
+
+<ul class="topnav" id="myTopnav">
+
+  <li class="active"><a href="#">Home</a></li>
         <li><a href="#">Courses</a></li>
         <li><a href="#">Updates </a></li>
         <li><a href="#">Testimonials</a></li>
         <li><a href="#">FAQ</a></li>
-      
-      </ul>
-   
-</nav>
-</div>
-</div>
-</div>
-</div>
+ 
+  <li class="icon">
+    <a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a>
+  </li>
+</ul>
 
+</div>
+</div>
+</div>
+</div>
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+
+</script>
 </body>
 </html>
