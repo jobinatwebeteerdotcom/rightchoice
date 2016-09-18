@@ -14,19 +14,19 @@ ul.topnav li {float: left;
 
 ul.topnav li a {
   display: inline-block;
-  color: #f2f2f2;
+  
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   transition: 0.3s;
   font-size: 17px;
-  color:black;
+  color:#000;
 }
 ul#myTopnav {
     margin-top: 12px;
 }
 
-ul.topnav li a:hover {background-color: #555;}
+ul.topnav li a:hover {background-color:#f18313;  color:white;}
 
 ul.topnav li.icon {display: none;}
 
@@ -57,22 +57,6 @@ ul.topnav li.icon {display: none;}
 </style>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .container-fluid.sec2 img {
 	position:relative;
 }
@@ -89,6 +73,8 @@ ul.topnav li.icon {display: none;}
 	 text-align: center;
 		padding-top:32px;
 		border-bottom: 4px solid #f18313;
+		  font-family: "Myriad Pro";
+	font-size:34 pt;
 
 }
 .container-fluid.sec2 h4 {
@@ -102,28 +88,42 @@ ul.topnav li.icon {display: none;}
     top: 560px;
 	text-align:center;
 	    padding-top: 30px;
+		 font-family: "Myriad Pro";
+	font-size:32 pt;
 	
 }
 .container-fluid.sec3{
 	background-color:#28475d;
 	height:100px;
+	text-align:center;
 	
 	
 }
 .container.sec3-head h4{
 	float:right;
 	color:white;
-	margin-top: 48px;
+	
+	 font-family: "Myriad Pro";
+	font-size:25.81 pt;
+	display:inline-block;
+	margin-top: 34px;
+	
 }
 button.btn.btn-primary.btn1 {
 	background:#f18313;
-	margin-top: 48px;
+	
     color: white;
 	 border: none;
+	 display:inline-block;
+	 margin-top: 30px;
+	 float:left;	
 }
 .sec4 h2{
 	color:#7c8f9c;
 	text-align:center;
+	 font-family: "Myriad Pro";
+	font-size:44pt;
+	margin: 60px;
 }
 .well.one{
 	background-color:#f2f2f2;
@@ -135,10 +135,14 @@ button.btn.btn-primary.btn1 {
 .one h5{
 	color:#7c8f9c;
 	text-align:center;
+	 font-family: "Myriad Pro";
+	font-size:15pt;
 }
 .one p{
 	color:#7c8f9c;
 	text-align:center;
+	 font-family: "Myriad Pro";
+	font-size:14pt;
 
 }
 button.btn.btn-primary.btn2 {
@@ -151,8 +155,16 @@ button.btn.btn-primary.btn2 {
 
 .sec6 h2{
 	color:#7c8f9c;
-}
+	 font-family: "Myriad Pro";
+	font-size:40pt;
+	float:left;
 
+	
+}
+.container-fluid.sec6{
+		
+		background-color:#f2f2f2;
+}
 
 .container-fluid.sec6{
 		
@@ -160,16 +172,21 @@ button.btn.btn-primary.btn2 {
 }
 .well.two{
 	background:white;
+	margin-top:0px;
+	
 }
 
 .two h4{
 	color:#7c8f9c;
 	text-align:center;
+	 font-family: "Myriad Pro";
+	font-size:18pt;
 }
 .two p{
 	color:#7c8f9c;
 	text-align:center;
-
+ font-family: "Myriad Pro";
+	font-size:14pt;
 }
 
 button.btn.btn-primary.btn3 {
@@ -191,6 +208,8 @@ button.btn.btn-primary.btn3 {
 	 text-align: center;
     color: white;
 	margin-top: 55px;
+	 font-family: "Myriad Pro";
+	font-size:40pt;
 	
   }
   .sec8-head p{
@@ -223,7 +242,13 @@ button.btn.btn-primary.btn3 {
 		 color: white;
 		 margin-left: 140px;
     margin-top: 42px;
+	 font-family: "Myriad Pro";
+	font-size:18pt;
  }
+  .container.sec8-head p{
+	  	 font-family: "Myriad Pro";
+	font-size:17pt;
+  }
 
 
 .container-fluid.sec9 {
@@ -232,6 +257,8 @@ button.btn.btn-primary.btn3 {
 .container-fluid.sec9 h6{
 	    margin-top: 44px;
 	color:#FFF;
+		 font-family: "Myriad Pro";
+	font-size:14pt;
 }
 .container-fluid.sec9 img {
 	float:right;
@@ -240,7 +267,16 @@ button.btn.btn-primary.btn3 {
 
 
 
-
+button.btn.btn-primary.btn9 {
+   
+	margin-top: 60px;
+margin-left: 33px;
+}
+button.btn.btn-primary.btn10 {
+   
+	margin-top: 60px;
+	
+}
 
 
 

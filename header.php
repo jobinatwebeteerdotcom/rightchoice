@@ -9,7 +9,7 @@ require_once('config.php') ;
 <link rel="stylesheet" href="<?php echo ROOT_DIR ?>css/layout.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link href="css/bootstrap.min.css" rel="stylesheet">
-<link rel="shortcut icon" type="image/png" href="<?php echo ROOT_DIR ?>images/fav.png"/>
+<link rel="shortcut icon" type="image/png" href="<?php echo ROOT_DIR ?>images/logo1.png"/>
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 </head>
@@ -19,7 +19,7 @@ require_once('config.php') ;
 <div class="container sec1_head">
 <div class="row">
 <div class="col-md-6">
-<img src="images/logo..png" />
+<img src="images/logo.png" />
 </div>
 <div class="col-md-6">
 

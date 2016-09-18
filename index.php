@@ -7,9 +7,12 @@ include('header.php');
 <div class="container-fluid sec2">
 <div class="row">
 <img class="img-responsive" src="images/image2.png" />
-<h3>"You have to dream before 
+
+
+<h3 class="font1">"You have to dream before 
 your dreams can come true."
 A. P. J. Abdul Kalam</h3>
+
 <h4>Schedule a Tutoring Session today! Call Now :  9497 4321 86</h4>
 </div>
 </div>
@@ -21,14 +24,12 @@ A. P. J. Abdul Kalam</h3>
 <div class="container-fluid sec3">
 <div class="container sec3-head">
 <div class="row">
-
-<div class="col-md-6">
+<div class="col-md-7">
 <h4>Request a free 15 minute consultation</h4>
 </div>
-<div class="col-md-6">
+<div class="col-md-5">
 <button  type="button" class="btn btn-primary btn1">CLICK HERE</button>
 </div>
-
 </div>
 </div>
 </div>
@@ -96,9 +97,15 @@ A. P. J. Abdul Kalam</h3>
 
 <!-- start section6-->
 <div class="container-fluid sec6">
-
 <div class="container">
+<div class="col-md-11">
    <h2>LATEST NEWS</h2>
+   </div>
+   <div class="col-md-1">
+ <a class="left carousel-control" href="#theCarousel" data-slide="prev"><button  type="button" class="btn btn-primary btn9">
+ < </button> </a>
+<a class="right carousel-control" href="#theCarousel" data-slide="next"><button  type="button" class="btn btn-primary btn10"> > </button> </a>
+</div>
   <div class="row">
     <div class="col-md-12">
       <div class="carousel slide multi-item-carousel" id="theCarousel">
@@ -180,8 +187,7 @@ Online</h4>
           
           
         </div>
-        <a class="left carousel-control" href="#theCarousel" data-slide="prev"></a>
-        <a class="right carousel-control" href="#theCarousel" data-slide="next"></a>
+       
       </div>
     </div>
   </div>
@@ -224,7 +230,8 @@ Online</h4>
 <h1>TESTIMONIALS </h1>
 
 <img src="images/image8.png" />
-<h5>Jobin JosephTeam Lead, webeteer Tech</h5>
+<h5>Jobin JosephTeam Lead,
+ webeteer Tech</h5>
 
 <p>I'm a paragraph. Click here to add your own text and edit me. It's easy. Just click "Edit Text" I'm a paragraph. Click here to add your own text and edit me. It's easy. Just click "Edit Text" I'm a paragraph. Click here to add your own text and edit me. It's easy. Just click "Edit Text" </p>
 </div>
