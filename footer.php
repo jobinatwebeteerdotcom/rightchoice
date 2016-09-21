@@ -9,20 +9,26 @@ require_once('config.php') ;
 <body>
 <!-- start section9-->
 <div class="container-fluid sec9">
-<div class="container sec9-head">
+<div class="container sec9_head">
 <div class="row">
 <div class="col-md-6">
-<h6>© 2016 choiceme - All Rights Reserved</h6>
+<h4>© 2016 choiceme - All Rights Reserved</h4>
 </div>
 <div class="col-md-6">
-<a href="http://facebook.com" target="_blank"><img src="images/image5.png" /></a>
 
-<a href="http://twitter.com"  target="_blank"><img src="images/image6.png" /></a>
-<a href="http://instagram.com" target="_blank"><img src="images/image7..png" /></a>
+<a href="http://facebook.com" target="_blank"><img src="images/foot1.png" /></a>
+<a href="http://twitter.com"  target="_blank"><img src="images/foot2.png" /></a>
+<a href="http://instagram.com" target="_blank"><img src="images/foot3.png" /></a>
 </div>
 </div>
 </div>
 </div>
+
+
+
+
+
+
 </body>
 </html>
 

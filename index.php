@@ -1,9 +1,6 @@
 <?php
 include('header.php');
-?>
-<!-- end section1-->
-
-<!-- start section2-->
+?><!-- start section2-->
 <div class="container-fluid sec2">
 <div class="row">
 <img class="img-responsive" src="images/image2.png" />
@@ -17,8 +14,6 @@ A. P. J. Abdul Kalam</h3>
 </div>
 </div>
 <!-- end section2-->
-
-
 <!-- start section3-->
 
 <div class="container-fluid sec3">
@@ -35,15 +30,6 @@ A. P. J. Abdul Kalam</h3>
 </div>
 <!-- end section3-->
 
-
-<!-- start section4-->
-
-<div class="container-fluid sec4">
-<div class="container sec4-head">
-<h2>OUR SPECIALITIES</h2>
-</div>
-</div>
-<!-- end section4-->
 
 
 <!-- start section5-->
@@ -94,7 +80,6 @@ A. P. J. Abdul Kalam</h3>
 
 <!-- end section5-->
 
-
 <!-- start section6-->
 <div class="container-fluid sec6">
 <div class="container">
@@ -106,6 +91,9 @@ A. P. J. Abdul Kalam</h3>
  < </button> </a>
 <a class="right carousel-control" href="#theCarousel" data-slide="next"><button  type="button" class="btn btn-primary btn10"> > </button> </a>
 </div>
+
+
+
   <div class="row">
     <div class="col-md-12">
       <div class="carousel slide multi-item-carousel" id="theCarousel">
@@ -197,54 +185,21 @@ Online</h4>
 
 <!-- end section6-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- start section8-->
 <div class="container-fluid sec8">
-<div class="row" >
-<img class="img-responsive" src="images/image4.png" />
-
- <div class="container sec8-head">
- 
-
-<h1>TESTIMONIALS </h1>
-
+<div class="container sec8-head">
+ <h1>TESTIMONIALS </h1>
 <img src="images/image8.png" />
-<h5>Jobin JosephTeam Lead,
+<h5 >Jobin JosephTeam Lead,
  webeteer Tech</h5>
 
 <p>I'm a paragraph. Click here to add your own text and edit me. It's easy. Just click "Edit Text" I'm a paragraph. Click here to add your own text and edit me. It's easy. Just click "Edit Text" I'm a paragraph. Click here to add your own text and edit me. It's easy. Just click "Edit Text" </p>
 </div>
 </div>
-</div>
 
-<!-- end section8-->
 
 <?php
 require('footer.php');
 ?>
-
-
 
 <script>
 {
@@ -270,3 +225,4 @@ $('.multi-item-carousel .item').each(function(){
 });
 }
 </script>
+

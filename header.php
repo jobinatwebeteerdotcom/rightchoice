@@ -18,24 +18,27 @@ require_once('config.php') ;
 <div class="container-fluid sec1">
 <div class="container sec1_head">
 <div class="row">
-<div class="col-md-6">
-<img src="images/logo.png" />
+<div class="col-md-2">
+<img class="img-responsive" src="images/logo2.png"/>
+
 </div>
-<div class="col-md-6">
+<div class="col-md-3">
+</div>
+<div class="col-md-7">
 
 <ul class="topnav" id="myTopnav">
 
   <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">Courses</a></li>
-        <li><a href="#">Updates </a></li>
-        <li><a href="#">Testimonials</a></li>
-        <li><a href="#">FAQ</a></li>
+        <li><a href="#">about us</a></li>
+        <li><a href="#">services </a></li>
+        <li><a href="#">product</a></li>
+        <li><a href="#">rental services</a></li>
+          <li><a href="#">contact us</a></li>
  
   <li class="icon">
     <a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a>
   </li>
 </ul>
-
 </div>
 </div>
 </div>
